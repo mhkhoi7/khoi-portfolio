@@ -479,3 +479,7 @@ font-size: 2em;
     background-color: #000000;
     border: none;
 }
+
+.education {
+  text-align: left;
+}
