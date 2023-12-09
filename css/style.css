@@ -468,7 +468,7 @@ font-size: 2em;
   	padding-top: 10px;
 }
 .panel-default>.panel-heading {
-    background-color: #db0f31;
+    background-color: #92d288;
 }
 .navbar-inverse .navbar-nav>li:hover {
     background-color: #9d9d9d;
@@ -482,4 +482,19 @@ font-size: 2em;
 
 .education {
   text-align: left;
+  line-height: 1.8;
 }
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
